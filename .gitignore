@@ -1,0 +1,33 @@
+# IDE / editor
+.vs/
+.idea/
+.vscode/
+.cursor/
+.claude/
+.codex-tools/
+*.user
+*.suo
+*.userosscache
+*.userprefs
+
+# Build
+bin/
+obj/
+BepInEx/
+artifacts/
+*.log
+*.nupkg
+
+# Local dumps / VS leftovers
+il2cppdump/
+_TypeDump/
+_probe*/
+_Probe.cs
+_tmp_nuget/
+.config/
+Backup/
+UpgradeLog.htm
+UpgradeLog.XML
+Thumbs.db
+Desktop.ini
+.DS_Store
